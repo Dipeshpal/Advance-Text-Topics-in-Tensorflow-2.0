@@ -123,3 +123,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Scripts/Classification/glove.6B.200d.txt
+Scripts/glove.6B.100d.txt
+Scripts/Natural Machine Translation/glove.6B.100d.txt
+Scripts/glove.6B.200d.txt
